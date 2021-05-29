@@ -1,0 +1,7 @@
+C:\Users\samsung\Desktop\QuarkExamen\Cotizador\Cotizador\bin\Debug\Cotizador.exe.config
+C:\Users\samsung\Desktop\QuarkExamen\Cotizador\Cotizador\bin\Debug\Cotizador.exe
+C:\Users\samsung\Desktop\QuarkExamen\Cotizador\Cotizador\bin\Debug\Cotizador.pdb
+C:\Users\samsung\Desktop\QuarkExamen\Cotizador\Cotizador\obj\Debug\Cotizador.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\QuarkExamen\Cotizador\Cotizador\obj\Debug\Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\QuarkExamen\Cotizador\Cotizador\obj\Debug\Cotizador.exe
+C:\Users\samsung\Desktop\QuarkExamen\Cotizador\Cotizador\obj\Debug\Cotizador.pdb
